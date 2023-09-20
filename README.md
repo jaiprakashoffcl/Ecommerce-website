@@ -10,6 +10,8 @@ This is the desktop-site
 This is mobile-view.
 You can install git-bash as following command as:
 git clone https://github.com/jaiprakashoffcl/Ecommerce-website.git
+After run the command as,
+![Screenshot_20230920_070612](https://github.com/jaiprakashoffcl/Ecommerce-website/assets/126840211/6cd1d110-c213-4fa0-bc5b-9200a9a3a1a6)
 Then start it on your editor.
 Enjoy.Happy Coding!
 Thank you.
