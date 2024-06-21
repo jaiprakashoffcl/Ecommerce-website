@@ -2,7 +2,7 @@
   "name": "@my-org/server",
   "version": "1.0.0",
   "description": "Server app that uses the ORGANIZATION_NAME/PACKAGE_NAME package",
-  "main": "index.js",
+  "main": "script.js",
   "author": "",
   "license": "MIT",
   "dependencies": {
